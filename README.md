@@ -1,9 +1,58 @@
-<h1 align="center">Hi 👋, I'm Barkul Saurabh Umesh</h1>
-<h3 align="center">Be computer Engineer</h3>
+# 🚀 Saurabh Barkul - Java Developer & Tester
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📌 Contact Information
+- 📧 Email: [saurabhbarkul007@gmail.com](mailto:saurabhbarkul007@gmail.com)
+- 📞 Phone: 8459258271
+- 📍 Location: Pune, Maharashtra
+- 🔗 LinkedIn: [Saurabh Barkul](https://linkedin.com/in/saurabh-barkul-177176229/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## 🌟 Summary
+Passionate **Java Developer & Tester** with a strong foundation in **software development, testing, and web technologies**. Eager to learn new technologies and enhance skills through hands-on experience. Enthusiastic about building efficient and scalable solutions.
+
+## 🎓 Education
+🎓 **Bachelor of Engineering (B.E.) - Computer Science & Engineering**  
+📍 JSPM Bhivrabai Sawant Institute of Technology and Research, Pune  
+📊 **Grade:** 8.21/10 CGPA  
+📅 *(2019 – 2023)*
+
+📚 **HSC**  
+🏫 Dr. Chandrabhan Sonvane Jr. College, Ukkadgaon  
+📊 **Percentage:** 72.92%  
+📅 *(2018 – 2019)*
+
+📖 **SSC**  
+🏫 Shripatrao Bhosale High School, Dharashiv  
+📊 **Percentage:** 77.20%  
+📅 *(2016 – 2017)*
+
+## 💻 Technical Skills
+### 🚀 Programming Languages:
+- ✅ C
+- ✅ Java (**Core Java, Advanced Java, Spring, Spring Boot & Microservices**)
+
+### 🌐 Web Technologies:
+- ✅ HTML, CSS, JavaScript, Bootstrap
+
+### 🗄️ Databases:
+- ✅ Oracle 19C (SQL)
+
+### 🔍 Testing:
+- ✅ Manual Testing
+- ✅ Automation Testing (**Selenium**)
+
+## 🏆 Projects
+### **🛡️ Mask Detection & Social Distancing**
+- 📌 Developed a system to detect whether a person is **wearing a mask** and maintaining **social distancing**.
+- 📌 Implemented **image processing** and **object detection** techniques.
+- 📌 Designed to help enforce **public health guidelines** efficiently.
+
+## 🎖 Achievements
+- 🏅 Successfully completed an internship as **Tathastu Web Development Scholar Intern** at Twowaits Technologies.
+- 🏅 Actively participated in **Full Stack Java programs** at **Naresh i Technologies, Hyderabad**.
+
+## ✅ Declaration
+I hereby declare that the above information is **true and correct** to the best of my knowledge.
+
+---
+📍 *Location: Pune*  
+✍️ *Saurabh Barkul*
