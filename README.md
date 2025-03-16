@@ -1,15 +1,19 @@
 <div align="center">
-  
+
 # Hi 👋! My name is Saurabh Barkul and I'm a Front-End Developer & Software Testing Engineer...
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=saurabhb0111&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
 
 ## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" width="48%"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saurabhb0111&show_icons=true&theme=dark" width="48%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhb0111&theme=dark" width="48%"/>
+
+---
 
 ## 🚀 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhb0111&layout=compact&theme=dark" width="48%"/>
 
 ---
 
@@ -29,7 +33,7 @@
 ---
 
 ## 🐍 Watch My Contributions Grow!  
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/saurabhb0111/saurabhb0111/output/github-contribution-grid-snake.svg)
 
 ---
 
